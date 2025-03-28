@@ -1,9 +1,11 @@
 <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm MellowVellow</h1>
   <a href="https://github.com/lohitkolluri"><img src="https://komarev.com/ghpvc/?username=MellowVellow&style=for-the-badge&color=brightgreen" alt="Profile Views"></a>
 
+  Hobby developer from Indonesia, experienced in frontend website development, game development, Python, blender.
+
 - 🔭 I’m currently working on Leetcode Grinding
 
-- 🌱 I’m currently learning **Python, Flutter, Rust**
+- 🌱 I’m currently learning **Python, Flutter, Rust, NextJS**
 
 - 🤔 I’m interested in Godot, Blender, Mobile App Development
 
