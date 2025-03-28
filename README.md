@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm MellowVellow</h1>
+  <a href="https://github.com/lohitkolluri"><img src="https://komarev.com/ghpvc/?username=MellowVellow&style=for-the-badge&color=brightgreen" alt="Profile Views"></a>
 
-<!--
-**MellowVellow/MellowVellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Leetcode Grinding
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python, Flutter, Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m interested in Godot, Blender, Mobile App Development
+
+<h3 align="center">Languages and Technologies:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,js,react,nodejs,nextjs,python,postgresql,git,html,css,flutter,dart,blender,godot,linux,docker,arduino" />
+  </a>
+</p>
