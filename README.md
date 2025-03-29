@@ -2,7 +2,7 @@
   <a href="https://github.com/MellowVellow"><img src="https://komarev.com/ghpvc/?username=MellowVellow&style=for-the-badge&color=brightgreen" alt="Profile Views"></a>
   <a href="https://github.com/MellowVellow/"><img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 
-  Hobby developer from Indonesia, 3 years of experience in front-end website development, game development, Python, blender.
+  Hobby developer from Indonesia.
 
 - 🔭 I’m currently working on Leetcode Grinding
 
