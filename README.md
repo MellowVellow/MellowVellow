@@ -3,9 +3,9 @@
 
   Hobby developer from Indonesia.
 
-- 🔭 I’m currently working on Leetcode Grinding.
+- 🔭 I’m currently working on a game jam competition.
 
-- 🌱 I’m currently learning **Blender, Drawing.**
+- 🌱 I’m currently learning **Blender.**
 
 - 🤔 I’m interested in Cybersecurity, LLMs.
 
